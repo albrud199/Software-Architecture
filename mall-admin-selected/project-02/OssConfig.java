@@ -1,5 +1,4 @@
 package com.macro.mall.config;
-
 import com.aliyun.oss.OSSClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

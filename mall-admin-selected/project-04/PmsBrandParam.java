@@ -1,5 +1,4 @@
 package com.macro.mall.dto;
-
 import com.macro.mall.validator.FlagValidator;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
