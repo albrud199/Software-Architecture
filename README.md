@@ -1,8 +1,8 @@
 # Software-Architecture
 
-## mall-admin Selected Projects
+## mall-admin Selected Java Projects
 
-This repository includes 10 selected files from the [`mall-admin`](https://github.com/macrozheng/mall/tree/master/mall-admin) module of the [`macrozheng/mall`](https://github.com/macrozheng/mall) project.
+This repository includes 10 selected **Java** files from the [`mall-admin`](https://github.com/macrozheng/mall/tree/master/mall-admin) module of the [`macrozheng/mall`](https://github.com/macrozheng/mall) project.
 
 ### Project Links
 
@@ -14,5 +14,5 @@ This repository includes 10 selected files from the [`mall-admin`](https://githu
 6. [Project 06 - ProductAttrInfo.java](./mall-admin-selected/project-06/README.md)
 7. [Project 07 - PmsProductResult.java](./mall-admin-selected/project-07/README.md)
 8. [Project 08 - PmsSkuStockServiceImpl.java](./mall-admin-selected/project-08/README.md)
-9. [Project 09 - PmsProductCategoryDao.xml](./mall-admin-selected/project-09/README.md)
-10. [Project 10 - UmsRoleDao.xml](./mall-admin-selected/project-10/README.md)
+9. [Project 09 - SmsCouponProductCategoryRelationDto.java](./mall-admin-selected/project-09/README.md)
+10. [Project 10 - SmsCouponProductRelationDto.java](./mall-admin-selected/project-10/README.md)
